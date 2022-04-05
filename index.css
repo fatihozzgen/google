@@ -43,7 +43,10 @@ a {
     .buttons {
         padding-top: 30px;
     }
-
+    
+    button:hover {
+        cursor: pointer;
+    }
     .button1 {
         margin-right: 10px;
         height: 36px;
